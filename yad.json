@@ -1,0 +1,22 @@
+{
+    "version": "1.6.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/ilyabrin/yad/releases/download/v1.6.0/yad-1.6.0-windows-amd64.zip",
+            "bin": [
+                "yad.exe"
+            ],
+            "hash": "863e203dcabe0ff3b82ab9c6521954bb4cec211444630829ccd9ca06acbde67c"
+        },
+        "arm64": {
+            "url": "https://github.com/ilyabrin/yad/releases/download/v1.6.0/yad-1.6.0-windows-arm64.zip",
+            "bin": [
+                "yad.exe"
+            ],
+            "hash": "0b08cd005ad6b88cf596be17276ca92db40e40fdaf555c00be7b395216fe5298"
+        }
+    },
+    "homepage": "https://github.com/ilyabrin/yad",
+    "license": "MIT OR Apache-2.0",
+    "description": "Your Yandex.Disk in the terminal"
+}
