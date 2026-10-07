@@ -1,19 +1,19 @@
 {
-    "version": "1.7.0",
+    "version": "1.7.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ilyabrin/yad/releases/download/v1.7.0/yad-1.7.0-windows-amd64.zip",
+            "url": "https://github.com/ilyabrin/yad/releases/download/v1.7.1/yad-1.7.1-windows-amd64.zip",
             "bin": [
                 "yad.exe"
             ],
-            "hash": "ff49b222e6a13ffda8fb65deb9abf7de22bef73371b75008b0315ef4cdfdfdfe"
+            "hash": "382d4ce6f906987f9d95351fd971da2e44399ee505822dccaa57904677bf5bf5"
         },
         "arm64": {
-            "url": "https://github.com/ilyabrin/yad/releases/download/v1.7.0/yad-1.7.0-windows-arm64.zip",
+            "url": "https://github.com/ilyabrin/yad/releases/download/v1.7.1/yad-1.7.1-windows-arm64.zip",
             "bin": [
                 "yad.exe"
             ],
-            "hash": "97e7f60a4e0c1f15be785850d16605ddfa6e50cbdb833855b1478c42fee9c6dd"
+            "hash": "82f5d415ad8e15b106f2ab8b7bc7bfcbb9d7cc24e823761e1e955a222325b867"
         }
     },
     "homepage": "https://github.com/ilyabrin/yad",
